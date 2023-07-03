@@ -17,6 +17,6 @@ E estou inicializando meus estudos em:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovasconcelos14&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovasconcelos14&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovasconcelos14&show_icons=true&theme=radical)
